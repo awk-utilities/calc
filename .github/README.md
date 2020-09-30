@@ -313,7 +313,6 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
 ```
 
 
@@ -374,3 +373,10 @@ For further details review full length version of [AGPL-3.0][branch__current__li
 [badge__main__calc__source_code]:
   https://img.shields.io/github/repo-size/awk-utilities/calc
 
+
+[sponsor__shields_io__liberapay]:
+  https://img.shields.io/static/v1?logo=liberapay&label=Sponsor&message=awk-utilities
+
+[sponsor__link__liberapay]:
+  https://liberapay.com/awk-utilities
+  "&#x1F4B1; Sponsor developments and projects that awk-utilities maintains via Liberapay"
